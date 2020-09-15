@@ -1,0 +1,43 @@
+a{  
+    background-image: url(img/flecha.png);
+    background-image: linear-gradient(rgb(78, 78, 78),black);
+    border: 3px solid #000000;
+	color: #fff;
+	font-size:  2.2rem;
+    text-decoration: none;
+    border-radius: 100px;
+    margin-left: 1%; 
+}
+
+a:hover{
+    background-image: linear-gradient(rgb(172, 0, 0), rgb(2, 2, 175));
+    border: 3px solid #000000bd; 
+}
+
+
+.login-container{
+    margin-left: 62%;
+    margin-top: 1%;
+}
+
+button{
+    
+    background-image: linear-gradient(rgb(78, 78, 78),black);
+    border: 3px solid #000000;
+	color: #fff;
+	font-size:  1.5rem;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+button:hover{
+    background-image: linear-gradient(rgb(172, 0, 0), rgb(2, 2, 175));
+    border: 3px solid #000000bd;
+
+    
+}
+
+#Jugar{
+    margin-left: 36%;
+    margin-top: 1%;
+}
